@@ -1,0 +1,17 @@
+.btn {
+  font-weight: bold;
+  color: #202020;
+  border-color: #202020;
+}
+
+.input-search {
+  width: 50%;
+  margin-left: 25%;
+}
+
+@media (max-width: 450px) {
+  .input-search {
+    width: 100%;
+    margin: 0;
+  }
+}
